@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anish-karthik" alt="anish-karthik" /></a> </p>
 
-- 🌱 I’m currently learning **AI - deeplearning**
+- 🌱 I’m currently learning **Advanced Web Technologies and System Design**
 
 - 👨‍💻 All of my projects are available at [portfolio.anish-karthik.vercel.app](portfolio.anish-karthik.vercel.app)
 
